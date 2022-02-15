@@ -13,3 +13,8 @@ Hextris Creators
     note = {commit xxxxxxx}
   }
 ```
+```
+2048 Github 
+Darknesssomi
+https://github.com/darknessomi/HTML5-2048
+```
