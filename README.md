@@ -4,6 +4,7 @@ not everything I put on it is mine that's why there's this Credits stuff so feel
 Hextris
 Creators
 ```
+  {
   @misc{engstrom2015hextris,
     author = {Logan Engstrom, Garrett Finucane, Noah Moroze, Michael Yang},
     title = {hextris},
