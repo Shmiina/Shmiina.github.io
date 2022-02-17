@@ -1,5 +1,5 @@
 Ummmm This is my website for random things and I don't know other stuff?, I'll post the credits to people I'm going to be using here 
-not everything I put on it is mine that's why there's this Credits stuff so feel free to use their work and of course cite their work :3
+not everything I put on it is mine that's why there's this Credits stuff so feel free to use their work and mine but of course cite our works:3
 
 
 ```
@@ -10,7 +10,6 @@ Hextris Creators
     title = {hextris},
     year = {2015},
     howpublished = {\url{https://github.com/hextris/hextris/}},
-    note = {commit xxxxxxx}
   }
 ```
 ```
